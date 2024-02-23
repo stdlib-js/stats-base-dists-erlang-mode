@@ -69,7 +69,7 @@ where `k` is the shape parameter and `λ` is the rate parameter.
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-mode@v0.2.1-deno/mod.js';
 ```
 
 #### mode( k, lambda )
@@ -141,7 +141,7 @@ v = mode( 2, -1.0 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-mode@v0.2.1-deno/mod.js';
 
 var lambda;
 var k;
