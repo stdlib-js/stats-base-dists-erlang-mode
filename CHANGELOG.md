@@ -2,6 +2,65 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-17)
+
+<section class="features">
+
+### Features
+
+-   [`fbcd2cf`](https://github.com/stdlib-js/stdlib/commit/fbcd2cf2f0f35407aff9dac2e9369da05093f082) - add C implementation for `stats/base/dists/erlang/mode`   [(#4247)](https://github.com/stdlib-js/stdlib/pull/4247)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3574](https://github.com/stdlib-js/stdlib/issues/3574)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fbcd2cf`](https://github.com/stdlib-js/stdlib/commit/fbcd2cf2f0f35407aff9dac2e9369da05093f082) - **feat:** add C implementation for `stats/base/dists/erlang/mode`   [(#4247)](https://github.com/stdlib-js/stdlib/pull/4247) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
+-   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Philipp Burckhardt
+-   Vivek Maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
