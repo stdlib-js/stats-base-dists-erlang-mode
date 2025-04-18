@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-17)
+## Unreleased (2025-04-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f877ae6`](https://github.com/stdlib-js/stdlib/commit/f877ae68f8f4defc5565a204531ad03c46469549) - **chore:** clean-up _(by Athan Reines)_
 -   [`fbcd2cf`](https://github.com/stdlib-js/stdlib/commit/fbcd2cf2f0f35407aff9dac2e9369da05093f082) - **feat:** add C implementation for `stats/base/dists/erlang/mode`   [(#4247)](https://github.com/stdlib-js/stdlib/pull/4247) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
